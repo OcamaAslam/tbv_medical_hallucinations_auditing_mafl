@@ -1,0 +1,1132 @@
+[
+  {
+    "id": 1,
+    "question": "A patient with chronic osteoarthritis requires a potent COX-2 selective inhibitor to manage pain while minimizing gastrointestinal distress.",
+    "options": {
+      "A": "Metformin",
+      "B": "Rofecoxib",
+      "C": "Atorvastatin",
+      "D": "Amoxicillin"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 2,
+    "question": "Which selective COX-2 inhibitor is indicated for the treatment of acute pain and primary dysmenorrhea?",
+    "options": {
+      "A": "Lisinopril",
+      "B": "Omeprazole",
+      "C": "Simvastatin",
+      "D": "Valdecoxib"
+    },
+    "correct_option": "D"
+  },
+  {
+    "id": 3,
+    "question": "A patient requires an injectable NSAID specifically for post-operative pain management.",
+    "options": {
+      "A": "Parecoxib",
+      "B": "Warfarin",
+      "C": "Levothyroxine",
+      "D": "Amlodipine"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 4,
+    "question": "Which non-steroidal anti-inflammatory agent is known for its high potency in treating ankylosing spondylitis?",
+    "options": {
+      "A": "Albuterol",
+      "B": "Benoxaprofen",
+      "C": "Sertraline",
+      "D": "Metoprolol"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 5,
+    "question": "For a patient requiring an oral NSAID that also possesses potent ophthalmic anti-inflammatory properties.",
+    "options": {
+      "A": "Gabapentin",
+      "B": "Furosemide",
+      "C": "Bromfenac",
+      "D": "Hydrochlorothiazide"
+    },
+    "correct_option": "C"
+  },
+  {
+    "id": 6,
+    "question": "Which analgesic is used for the rapid relief of acute gouty arthritis?",
+    "options": {
+      "A": "Vitamin D",
+      "B": "Insulin",
+      "C": "Oxyphenbutazone",
+      "D": "Tamsulosin"
+    },
+    "correct_option": "C"
+  },
+  {
+    "id": 7,
+    "question": "A patient needs a selective COX-2 inhibitor with a high affinity for the COX-2 enzyme to treat rheumatoid arthritis.",
+    "options": {
+      "A": "Lumiracoxib",
+      "B": "Metoprolol",
+      "C": "Citalopram",
+      "D": "Cetirizine"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 8,
+    "question": "Which pyrazolone derivative provides potent analgesic and antipyretic effects?",
+    "options": {
+      "A": "Clopidogrel",
+      "B": "Montelukast",
+      "C": "Metamizole",
+      "D": "Losartan"
+    },
+    "correct_option": "C"
+  },
+  {
+    "id": 9,
+    "question": "Which non-narcotic analgesic is indicated for the management of severe chronic pain?",
+    "options": {
+      "A": "Pantoprazole",
+      "B": "Bupropion",
+      "C": "Finasteride",
+      "D": "Nomifensine"
+    },
+    "correct_option": "D"
+  },
+  {
+    "id": 10,
+    "question": "A patient requires an alkanone-class NSAID for the treatment of primary dysmenorrhea.",
+    "options": {
+      "A": "Spironolactone",
+      "B": "Alclofenac",
+      "C": "Melatonin",
+      "D": "Donepezil"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 11,
+    "question": "A patient with a BMI of 32 requires a serotonergic appetite suppressant to assist in long-term weight reduction.",
+    "options": {
+      "A": "Penicillin",
+      "B": "Fenfluramine",
+      "C": "Allopurinol",
+      "D": "Latanoprost"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 12,
+    "question": "Which 'S' isomer of fenfluramine is used as an anorectic agent for the treatment of exogenous obesity?",
+    "options": {
+      "A": "Dexfenfluramine",
+      "B": "Digoxin",
+      "C": "Metformin",
+      "D": "Diazepam"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 13,
+    "question": "Which agent acts as a norepinephrine, serotonin, and dopamine reuptake inhibitor to facilitate weight loss?",
+    "options": {
+      "A": "Warfarin",
+      "B": "Potassium Chloride",
+      "C": "Sibutramine",
+      "D": "Albuterol"
+    },
+    "correct_option": "C"
+  },
+  {
+    "id": 14,
+    "question": "Which selective 5-HT2C receptor agonist is indicated for chronic weight management?",
+    "options": {
+      "A": "Glipizide",
+      "B": "Folic Acid",
+      "C": "Lorcaserin",
+      "D": "Loratadine"
+    },
+    "correct_option": "C"
+  },
+  {
+    "id": 15,
+    "question": "A patient with Type 2 Diabetes requires a thiazolidinedione (TZD) to improve insulin sensitivity and glycemic control.",
+    "options": {
+      "A": "Naproxen",
+      "B": "Troglitazone",
+      "C": "Aspirin",
+      "D": "Vitamin B12"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 16,
+    "question": "Which oral biguanide is used to lower blood glucose levels in diabetic patients?",
+    "options": {
+      "A": "Ibuprofen",
+      "B": "Paracetamol",
+      "C": "Phenformin",
+      "D": "Iron Sulfate"
+    },
+    "correct_option": "C"
+  },
+  {
+    "id": 17,
+    "question": "A patient with hyperlipidemia requires a potent HMG-CoA reductase inhibitor to lower LDL cholesterol levels.",
+    "options": {
+      "A": "Cerivastatin",
+      "B": "Amoxicillin",
+      "C": "Prednisone",
+      "D": "Propranolol"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 18,
+    "question": "Which sympathomimetic amine is indicated for use as a nasal decongestant and an appetite suppressant?",
+    "options": {
+      "A": "Calcium Carbonate",
+      "B": "Ranitidine",
+      "C": "Docusate",
+      "D": "Phenylpropanolamine"
+    },
+    "correct_option": "D"
+  },
+  {
+    "id": 19,
+    "question": "Which cannabinoid-1 (CB1) receptor antagonist is used to treat obesity and associated metabolic risks?",
+    "options": {
+      "A": "Famotidine",
+      "B": "Rimonabant",
+      "C": "Senna",
+      "D": "Guaifenesin"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 20,
+    "question": "A patient requires a selective T-type calcium channel blocker for the treatment of chronic stable angina.",
+    "options": {
+      "A": "Oxycodone",
+      "B": "Multivitamin",
+      "C": "Mibefradil",
+      "D": "Gabapentin"
+    },
+    "correct_option": "C"
+  },
+  {
+    "id": 21,
+    "question": "A patient with a severe respiratory tract infection requires a potent 8-fluoroquinolone.",
+    "options": {
+      "A": "Sparfloxacin",
+      "B": "Insulin",
+      "C": "Metoprolol",
+      "D": "Naproxen"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 22,
+    "question": "Which fluoroquinolone is used for the treatment of complicated intra-abdominal infections and nosocomial pneumonia?",
+    "options": {
+      "A": "Citalopram",
+      "B": "Alatrofloxacin",
+      "C": "Pravastatin",
+      "D": "Omeprazole"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 23,
+    "question": "For a patient with community-acquired pneumonia, which fluoroquinolone provides excellent coverage against S. pneumoniae?",
+    "options": {
+      "A": "Lisinopril",
+      "B": "Sertraline",
+      "C": "Gatifloxacin",
+      "D": "Ibuprofen"
+    },
+    "correct_option": "C"
+  },
+  {
+    "id": 24,
+    "question": "Which ketolide antibiotic is indicated for the treatment of acute bacterial sinusitis and chronic bronchitis?",
+    "options": {
+      "A": "Telithromycin",
+      "B": "Amlodipine",
+      "C": "Furosemide",
+      "D": "Losartan"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 25,
+    "question": "Which antimicrobial agent is indicated for the treatment of intestinal amoebiasis?",
+    "options": {
+      "A": "Atorvastatin",
+      "B": "Clioquinol",
+      "C": "Metformin",
+      "D": "Losartan"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 26,
+    "question": "A patient with traveler's diarrhea requires an antimicrobial agent effective against enteric pathogens.",
+    "options": {
+      "A": "Vitamin C",
+      "B": "Pantoprazole",
+      "C": "Levothyroxine",
+      "D": "Furazolidone"
+    },
+    "correct_option": "D"
+  },
+  {
+    "id": 27,
+    "question": "Which fluoroquinolone is indicated for the treatment of acute exacerbations of chronic bronchitis?",
+    "options": {
+      "A": "Simvastatin",
+      "B": "Grepafloxacin",
+      "C": "Gabapentin",
+      "D": "Hydrochlorothiazide"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 28,
+    "question": "Which antibiotic is the primary choice for treating meningitis caused by Haemophilus influenzae?",
+    "options": {
+      "A": "Aspirin",
+      "B": "Calcium",
+      "C": "Albuterol",
+      "D": "Chloramphenicol"
+    },
+    "correct_option": "D"
+  },
+  {
+    "id": 29,
+    "question": "A patient requires a fluoroquinolone specifically for the treatment of skin and soft tissue infections.",
+    "options": {
+      "A": "Metoprolol",
+      "B": "Temafloxacin",
+      "C": "Citalopram",
+      "D": "Amoxicillin"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 30,
+    "question": "Which nitrofuran derivative is used as a topical antibacterial agent for burns and skin grafts?",
+    "options": {
+      "A": "Nitrofurazone",
+      "B": "Ibuprofen",
+      "C": "Lisinopril",
+      "D": "Famotidine"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 31,
+    "question": "A 10-year-old child diagnosed with ADHD requires a central nervous system stimulant to improve focus.",
+    "options": {
+      "A": "Atorvastatin",
+      "B": "Amoxicillin",
+      "C": "Pemoline",
+      "D": "Omeprazole"
+    },
+    "correct_option": "C"
+  },
+  {
+    "id": 32,
+    "question": "Which selective serotonin reuptake inhibitor (SSRI) is indicated for the treatment of clinical depression?",
+    "options": {
+      "A": "Metformin",
+      "B": "Losartan",
+      "C": "Amlodipine",
+      "D": "Zimelidine"
+    },
+    "correct_option": "D"
+  },
+  {
+    "id": 33,
+    "question": "A patient with Parkinson\u2019s disease requires a dopamine agonist to manage 'off' episodes.",
+    "options": {
+      "A": "Furosemide",
+      "B": "Pergolide",
+      "C": "Sertraline",
+      "D": "Hydrochlorothiazide"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 34,
+    "question": "Which antidepressant is indicated for the treatment of major depressive disorder and insomnia?",
+    "options": {
+      "A": "Nefazodone",
+      "B": "Lisinopril",
+      "C": "Simvastatin",
+      "D": "Gabapentin"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 35,
+    "question": "A patient requires a benzodiazepine-class muscle relaxant for the treatment of painful muscle spasms.",
+    "options": {
+      "A": "Pravastatin",
+      "B": "Ciprofloxacin",
+      "C": "Tetrazepam",
+      "D": "Albuterol"
+    },
+    "correct_option": "C"
+  },
+  {
+    "id": 36,
+    "question": "Which atypical antipsychotic is the most effective for treatment-resistant schizophrenia?",
+    "options": {
+      "A": "Aspirin",
+      "B": "Clozapine",
+      "C": "Metoprolol",
+      "D": "Naproxen"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 37,
+    "question": "A patient requires a sedative-hypnotic for the short-term management of severe insomnia.",
+    "options": {
+      "A": "Vitamin D",
+      "B": "Calcium",
+      "C": "Iron",
+      "D": "Methaqualone"
+    },
+    "correct_option": "D"
+  },
+  {
+    "id": 38,
+    "question": "Which irreversible monoamine oxidase inhibitor (MAOI) is used to treat severe reactive depression?",
+    "options": {
+      "A": "Iproniazid",
+      "B": "Pantoprazole",
+      "C": "Levothyroxine",
+      "D": "Cetirizine"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 39,
+    "question": "A patient requires an adjunctive treatment for partial-onset seizures that acts as a potassium channel opener.",
+    "options": {
+      "A": "Metformin",
+      "B": "Atorvastatin",
+      "C": "Ezogabine",
+      "D": "Ibuprofen"
+    },
+    "correct_option": "C"
+  },
+  {
+    "id": 40,
+    "question": "Which stimulant agent is used to improve wakefulness in patients with narcolepsy?",
+    "options": {
+      "A": "Losartan",
+      "B": "Amfetaminil",
+      "C": "Amlodipine",
+      "D": "Simvastatin"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 41,
+    "question": "A patient with severe gastroesophageal reflux disease (GERD) requires a prokinetic agent to increase lower esophageal sphincter tone.",
+    "options": {
+      "A": "Amoxicillin",
+      "B": "Lisinopril",
+      "C": "Sertraline",
+      "D": "Cisapride"
+    },
+    "correct_option": "D"
+  },
+  {
+    "id": 42,
+    "question": "Which H2-receptor antagonist is indicated for the treatment of duodenal ulcers and heartburn?",
+    "options": {
+      "A": "Ranitidine",
+      "B": "Metoprolol",
+      "C": "Atorvastatin",
+      "D": "Gabapentin"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 43,
+    "question": "For a patient with irritable bowel syndrome with constipation (IBS-C), which 5-HT4 receptor agonist is indicated?",
+    "options": {
+      "A": "Omeprazole",
+      "B": "Tegaserod",
+      "C": "Furosemide",
+      "D": "Hydrochlorothiazide"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 44,
+    "question": "A female patient with severe diarrhea-predominant IBS (IBS-D) requires a 5-HT3 receptor antagonist.",
+    "options": {
+      "A": "Losartan",
+      "B": "Simvastatin",
+      "C": "Alosetron",
+      "D": "Ibuprofen"
+    },
+    "correct_option": "C"
+  },
+  {
+    "id": 45,
+    "question": "Which agent is used for the management of nausea and vomiting associated with chemotherapy?",
+    "options": {
+      "A": "Metformin",
+      "B": "Amlodipine",
+      "C": "Albuterol",
+      "D": "Dolasetron (IV)"
+    },
+    "correct_option": "D"
+  },
+  {
+    "id": 46,
+    "question": "A patient requires a lipase inhibitor for the treatment of obesity.",
+    "options": {
+      "A": "Cetilistat",
+      "B": "Pantoprazole",
+      "C": "Lisinopril",
+      "D": "Naproxen"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 47,
+    "question": "Which agent is indicated for the treatment of nausea and vomiting during pregnancy?",
+    "options": {
+      "A": "Calcium",
+      "B": "Thalidomide",
+      "C": "Vitamin C",
+      "D": "Insulin"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 48,
+    "question": "For a patient with cholesterol gallstones, which bile acid is used to dissolve the stones?",
+    "options": {
+      "A": "Metoprolol",
+      "B": "Ciprofloxacin",
+      "C": "Chenodiol",
+      "D": "Sertraline"
+    },
+    "correct_option": "C"
+  },
+  {
+    "id": 49,
+    "question": "Which stimulant laxative is commonly found in over-the-counter bowel prep kits?",
+    "options": {
+      "A": "Aspirin",
+      "B": "Phenolphthalein",
+      "C": "Losartan",
+      "D": "Atorvastatin"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 50,
+    "question": "A patient with chronic idiopathic constipation requires a selective chloride channel activator.",
+    "options": {
+      "A": "Paracetamol",
+      "B": "Ibuprofen",
+      "C": "Famotidine",
+      "D": "Lubiprostone"
+    },
+    "correct_option": "D"
+  },
+  {
+    "id": 51,
+    "question": "Which oral direct thrombin inhibitor is indicated for the prevention of venous thromboembolism?",
+    "options": {
+      "A": "Ximelagatran",
+      "B": "Amoxicillin",
+      "C": "Metoprolol",
+      "D": "Sertraline"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 52,
+    "question": "For a patient with congestive heart failure, which positive inotropic agent also has vasodilating properties?",
+    "options": {
+      "A": "Lisinopril",
+      "B": "Flosequinan",
+      "C": "Atorvastatin",
+      "D": "Omeprazole"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 53,
+    "question": "Which antiarrhythmic agent is used for the conversion of recent-onset atrial fibrillation to sinus rhythm?",
+    "options": {
+      "A": "Gabapentin",
+      "B": "Furosemide",
+      "C": "Simvastatin",
+      "D": "Dofetilide"
+    },
+    "correct_option": "D"
+  },
+  {
+    "id": 54,
+    "question": "A patient with pulmonary arterial hypertension (PAH) requires an endothelin receptor antagonist.",
+    "options": {
+      "A": "Sitaxsentan",
+      "B": "Losartan",
+      "C": "Amlodipine",
+      "D": "Ibuprofen"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 55,
+    "question": "Which direct-acting vasodilator is used for the treatment of severe hypertension?",
+    "options": {
+      "A": "Metformin",
+      "B": "Pantoprazole",
+      "C": "Minoxidil",
+      "D": "Ciprofloxacin"
+    },
+    "correct_option": "C"
+  },
+  {
+    "id": 56,
+    "question": "A patient with edema associated with congestive heart failure requires a loop diuretic.",
+    "options": {
+      "A": "Atorvastatin",
+      "B": "Muzolimine",
+      "C": "Lisinopril",
+      "D": "Gabapentin"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 57,
+    "question": "Which peripheral vasodilator is used for the treatment of intermittent claudication?",
+    "options": {
+      "A": "Buflomedil",
+      "B": "Amoxicillin",
+      "C": "Metoprolol",
+      "D": "Omeprazole"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 58,
+    "question": "A patient requires a T-type calcium channel blocker for the treatment of essential hypertension.",
+    "options": {
+      "A": "Sertraline",
+      "B": "Losartan",
+      "C": "Amlodipine",
+      "D": "Mibefradil"
+    },
+    "correct_option": "D"
+  },
+  {
+    "id": 59,
+    "question": "Which thienopyridine is used to inhibit platelet aggregation in patients with coronary artery disease?",
+    "options": {
+      "A": "Aspirin",
+      "B": "Ticlopidine",
+      "C": "Ibuprofen",
+      "D": "Paracetamol"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 60,
+    "question": "For the treatment of acute heart failure, which phosphodiesterase inhibitor is indicated?",
+    "options": {
+      "A": "Vitamin D",
+      "B": "Calcium",
+      "C": "Insulin",
+      "D": "Milrinone"
+    },
+    "correct_option": "D"
+  },
+  {
+    "id": 61,
+    "question": "A patient with seasonal allergies requires a non-sedating H1-receptor antagonist.",
+    "options": {
+      "A": "Terfenadine",
+      "B": "Metoprolol",
+      "C": "Atorvastatin",
+      "D": "Lisinopril"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 62,
+    "question": "Which second-generation antihistamine provides 24-hour relief for chronic idiopathic urticaria?",
+    "options": {
+      "A": "Amoxicillin",
+      "B": "Astemizole",
+      "C": "Omeprazole",
+      "D": "Simvastatin"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 63,
+    "question": "Which 5-lipoxygenase inhibitor is indicated for the prophylaxis and chronic treatment of asthma?",
+    "options": {
+      "A": "Furosemide",
+      "B": "Sertraline",
+      "C": "Zileuton",
+      "D": "Hydrochlorothiazide"
+    },
+    "correct_option": "C"
+  },
+  {
+    "id": 64,
+    "question": "A patient with a dry, non-productive cough requires a non-opioid antitussive agent.",
+    "options": {
+      "A": "Losartan",
+      "B": "Amlodipine",
+      "C": "Ibuprofen",
+      "D": "Clobutinol"
+    },
+    "correct_option": "D"
+  },
+  {
+    "id": 65,
+    "question": "Which monoclonal antibody is indicated for the treatment of moderate-to-severe plaque psoriasis?",
+    "options": {
+      "A": "Efalizumab",
+      "B": "Metformin",
+      "C": "Lisinopril",
+      "D": "Atorvastatin"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 66,
+    "question": "A patient with recalcitrant nodular acne requires an oral retinoid.",
+    "options": {
+      "A": "Paracetamol",
+      "B": "Isotretinoin",
+      "C": "Vitamin C",
+      "D": "Insulin"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 67,
+    "question": "Which topical agent is used for the treatment of chronic plaque psoriasis of the scalp?",
+    "options": {
+      "A": "Vitamin E",
+      "B": "Coal Tar",
+      "C": "Calcium",
+      "D": "Iron"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 68,
+    "question": "A patient with primary nocturnal enuresis requires a synthetic analogue of the antidiuretic hormone.",
+    "options": {
+      "A": "Albuterol",
+      "B": "Pantoprazole",
+      "C": "Ciprofloxacin",
+      "D": "Desmopressin"
+    },
+    "correct_option": "D"
+  },
+  {
+    "id": 69,
+    "question": "Which long-acting beta-agonist (LABA) is indicated for the long-term maintenance of asthma?",
+    "options": {
+      "A": "Salmeterol",
+      "B": "Metoprolol",
+      "C": "Atorvastatin",
+      "D": "Lisinopril"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 70,
+    "question": "Which respiratory stimulant is used to treat postanesthetic respiratory depression?",
+    "options": {
+      "A": "Gabapentin",
+      "B": "Doxapram",
+      "C": "Omeprazole",
+      "D": "Simvastatin"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 71,
+    "question": "A patient with Alzheimer's disease requires a monoclonal antibody that targets amyloid-beta plaques.",
+    "options": {
+      "A": "Metformin",
+      "B": "Losartan",
+      "C": "Aducanumab",
+      "D": "Amlodipine"
+    },
+    "correct_option": "C"
+  },
+  {
+    "id": 72,
+    "question": "Which erythropoiesis-stimulating agent is used for the treatment of anemia in patients with chronic kidney disease?",
+    "options": {
+      "A": "Amoxicillin",
+      "B": "Metoprolol",
+      "C": "Sertraline",
+      "D": "Peginesatide"
+    },
+    "correct_option": "D"
+  },
+  {
+    "id": 73,
+    "question": "A patient with Duchenne muscular dystrophy requires a drug that promotes dystrophin production.",
+    "options": {
+      "A": "Ataluren",
+      "B": "Omeprazole",
+      "C": "Furosemide",
+      "D": "Hydrochlorothiazide"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 74,
+    "question": "Which inverse agonist/antagonist at the 5-HT2A receptor is used for Parkinson's disease psychosis?",
+    "options": {
+      "A": "Lisinopril",
+      "B": "Pimavanserin",
+      "C": "Atorvastatin",
+      "D": "Simvastatin"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 75,
+    "question": "A patient requires an oral solution containing a solvent for pediatric cough relief.",
+    "options": {
+      "A": "Vitamin C",
+      "B": "Diethylene Glycol (Contaminant trap)",
+      "C": "Calcium",
+      "D": "Iron"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 76,
+    "question": "Which long-acting opioid is indicated for the management of pain severe enough to require daily, around-the-clock treatment?",
+    "options": {
+      "A": "Ibuprofen",
+      "B": "Paracetamol",
+      "C": "Oxymorphone ER",
+      "D": "Aspirin"
+    },
+    "correct_option": "C"
+  },
+  {
+    "id": 77,
+    "question": "Which PI3K-delta inhibitor is indicated for the treatment of relapsed chronic lymphocytic leukemia?",
+    "options": {
+      "A": "Metoprolol",
+      "B": "Idelalisib",
+      "C": "Amoxicillin",
+      "D": "Losartan"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 78,
+    "question": "A patient with erythema nodosum leprosum requires an immunomodulatory agent.",
+    "options": {
+      "A": "Thalidomide",
+      "B": "Pantoprazole",
+      "C": "Lisinopril",
+      "D": "Atorvastatin"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 79,
+    "question": "Which lubricant eye drop is indicated for the temporary relief of burning and irritation due to dryness of the eye?",
+    "options": {
+      "A": "Metformin",
+      "B": "Losartan",
+      "C": "Amlodipine",
+      "D": "EzriCare"
+    },
+    "correct_option": "D"
+  },
+  {
+    "id": 80,
+    "question": "For a patient with hypoactive sexual desire disorder (HSDD), which 5-HT1A agonist/5-HT2A antagonist is indicated?",
+    "options": {
+      "A": "Flibanserin",
+      "B": "Metoprolol",
+      "C": "Amoxicillin",
+      "D": "Atorvastatin"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 81,
+    "question": "A patient with muscle spasms requires a centrally acting muscle relaxant that is metabolized into meprobamate.",
+    "options": {
+      "A": "Vitamin D",
+      "B": "Carisoprodol",
+      "C": "Calcium",
+      "D": "Iron"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 82,
+    "question": "Which HER2-directed antibody is used to treat patients with metastatic breast cancer?",
+    "options": {
+      "A": "Insulin",
+      "B": "Paracetamol",
+      "C": "Margetuximab",
+      "D": "Aspirin"
+    },
+    "correct_option": "C"
+  },
+  {
+    "id": 83,
+    "question": "A patient with chronic hepatitis C requires a combination of protease inhibitors for antiviral therapy.",
+    "options": {
+      "A": "Ibuprofen",
+      "B": "Pantoprazole",
+      "C": "Lisinopril",
+      "D": "Viekira Pak"
+    },
+    "correct_option": "D"
+  },
+  {
+    "id": 84,
+    "question": "Which dopamine reuptake inhibitor is used for the treatment of major depression?",
+    "options": {
+      "A": "Nomifensine",
+      "B": "Metoprolol",
+      "C": "Amoxicillin",
+      "D": "Atorvastatin"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 85,
+    "question": "Which parathyroid hormone analog is indicated for the treatment of osteoporosis in postmenopausal women?",
+    "options": {
+      "A": "Losartan",
+      "B": "Teriparatide",
+      "C": "Amlodipine",
+      "D": "Simvastatin"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 86,
+    "question": "Which herbal alkaloid is indicated for use in weight loss supplements to increase thermogenesis?",
+    "options": {
+      "A": "Vitamin B12",
+      "B": "Folic Acid",
+      "C": "Omega-3",
+      "D": "Ephedra"
+    },
+    "correct_option": "D"
+  },
+  {
+    "id": 87,
+    "question": "Which farnesoid X receptor agonist is indicated for the treatment of primary biliary cholangitis?",
+    "options": {
+      "A": "Obeticholic Acid",
+      "B": "Gabapentin",
+      "C": "Furosemide",
+      "D": "Hydrochlorothiazide"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 88,
+    "question": "Which anti-CD25 monoclonal antibody is used to prevent organ rejection in kidney transplants?",
+    "options": {
+      "A": "Metoprolol",
+      "B": "Daclizumab",
+      "C": "Amoxicillin",
+      "D": "Atorvastatin"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 89,
+    "question": "For a patient with migraine, which ergot alkaloid derivative is used as a prophylactic treatment?",
+    "options": {
+      "A": "Pantoprazole",
+      "B": "Lisinopril",
+      "C": "Methysergide",
+      "D": "Atorvastatin"
+    },
+    "correct_option": "C"
+  },
+  {
+    "id": 90,
+    "question": "Which non-narcotic analgesic is indicated for the treatment of mild-to-moderate pain and was a predecessor to newer NSAIDs?",
+    "options": {
+      "A": "Metformin",
+      "B": "Losartan",
+      "C": "Amlodipine",
+      "D": "Zomepirac"
+    },
+    "correct_option": "D"
+  },
+  {
+    "id": 91,
+    "question": "Which gadolinium-based contrast agent is used for MRI imaging of the central nervous system?",
+    "options": {
+      "A": "Gadodiamide",
+      "B": "Albuterol",
+      "C": "Sertraline",
+      "D": "Furosemide"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 92,
+    "question": "Which dopamine agonist is indicated for the treatment of Restless Legs Syndrome?",
+    "options": {
+      "A": "Metoprolol",
+      "B": "Pramipexole",
+      "C": "Atorvastatin",
+      "D": "Lisinopril"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 93,
+    "question": "Which angiotensin II receptor blocker (ARB) is indicated for the treatment of hypertension?",
+    "options": {
+      "A": "Vitamin D",
+      "B": "Olmesartan",
+      "C": "Calcium",
+      "D": "Iron"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 94,
+    "question": "Which sedative-hypnotic is indicated for the short-term treatment of insomnia characterized by difficulties with sleep initiation?",
+    "options": {
+      "A": "Paracetamol",
+      "B": "Ibuprofen",
+      "C": "Zolpidem",
+      "D": "Aspirin"
+    },
+    "correct_option": "C"
+  },
+  {
+    "id": 95,
+    "question": "A patient with acute coronary syndrome requires a glycoprotein IIb/IIIa receptor antagonist.",
+    "options": {
+      "A": "Lisinopril",
+      "B": "Atorvastatin",
+      "C": "Amoxicillin",
+      "D": "Sibrafiban"
+    },
+    "correct_option": "D"
+  },
+  {
+    "id": 96,
+    "question": "Which direct thrombin inhibitor is used for anticoagulation in patients with heparin-induced thrombocytopenia?",
+    "options": {
+      "A": "Argatroban",
+      "B": "Metformin",
+      "C": "Losartan",
+      "D": "Amlodipine"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 97,
+    "question": "For a patient with schizophrenia, which butyrophenone antipsychotic is indicated?",
+    "options": {
+      "A": "Ibuprofen",
+      "B": "Benperidol",
+      "C": "Paracetamol",
+      "D": "Aspirin"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 98,
+    "question": "Which agent is used as a sclerosing agent for the treatment of varicose veins?",
+    "options": {
+      "A": "Pantoprazole",
+      "B": "Lisinopril",
+      "C": "Sodium Morrhuate",
+      "D": "Atorvastatin"
+    },
+    "correct_option": "C"
+  },
+  {
+    "id": 99,
+    "question": "Which drug is indicated for the treatment of infantile spasms (West syndrome)?",
+    "options": {
+      "A": "Metoprolol",
+      "B": "Amoxicillin",
+      "C": "Atorvastatin",
+      "D": "Vigabatrin"
+    },
+    "correct_option": "D"
+  },
+  {
+    "id": 100,
+    "question": "Which benzodiazepine is indicated for the treatment of panic disorder with or without agoraphobia?",
+    "options": {
+      "A": "Bromazepam",
+      "B": "Vitamin C",
+      "C": "Calcium",
+      "D": "Iron"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 101,
+    "question": "Which COX-2 selective inhibitor is effective for arthritis?",
+    "options": {
+      "A": "Rofecoxib",
+      "B": "Acetaminophen",
+      "C": "Lisinopril"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 102,
+    "question": "Which serotonergic appetite suppressant is used for weight loss?",
+    "options": {
+      "A": "Calcium Carbonate",
+      "B": "Vitamin C",
+      "C": "Fenfluramine"
+    },
+    "correct_option": "C"
+  },
+  {
+    "id": 103,
+    "question": "Which drug is used for inhibiting bacterial DNA replication?",
+    "options": {
+      "A": "Chloral hydrate",
+      "B": "Alatrofloxacin",
+      "C": "Ibuprofen"
+    },
+    "correct_option": "B"
+  }
+]
